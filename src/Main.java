@@ -1,7 +1,10 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hi there");
+
+        for(var i = 0; i < arr.length; i++) {
+            console.log(arr[i]);
+        }
 
     }
 }
