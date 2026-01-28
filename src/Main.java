@@ -6,5 +6,9 @@ public class Main {
             console.log(arr[i]);
         }
 
+        arr.forEach(functional(item) {
+            console.log(item);
+        });
+
     }
 }
